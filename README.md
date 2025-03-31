@@ -23,7 +23,7 @@ MovieFlix is a React Native application built with **Expo** that allows users to
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/PeradheepY/react_native_MovieApp.git>
    cd react_native_MovieApp
    ```
 
