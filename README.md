@@ -54,10 +54,10 @@ MovieFlix is a React Native application built with **Expo** that allows users to
 ## App Screenshots
 
 ### Home Screen
-<img src="./assets/screenshots/home.jpg" alt="Home Screen" width="600">
+<img src="./assets/screenshots/home.jpg" alt="Home Screen" width="300">
 
 ### Search Screen
-<img src="./assets/screenshots/search.jpg" alt="Search Screen" width="600">
+<img src="./assets/screenshots/search.jpg" alt="Search Screen" width="300">
 
 ### Movie Details Screen
-<img src="./assets/screenshots/moviedetails.jpg" alt="Movie Details Screen" width="600">
+<img src="./assets/screenshots/moviedetails.jpg" alt="Movie Details Screen" width="300">
